@@ -1,0 +1,71 @@
+NYC SUBWAY ACCESS AND COMMUTE TIMES FOR NYU STUDENTS
+Source: MTA GTFS Static Feed
+
+This file answers questions like: What subway lines are near my neighborhood? How long is the commute to NYU from Williamsburg, the East Village, or Crown Heights? Which neighborhoods have the best transit access for NYU students?
+
+NYU's main Washington Square campus is in Greenwich Village, Manhattan. NYU Tandon (engineering school) is in Downtown Brooklyn near the A/C/F trains.
+
+GREENWICH VILLAGE (NYU Washington Square campus)
+Greenwich Village is where NYU's main campus is located. Students who live here have a 0-5 minute walk to class. Subway stations within 0.5 miles include:
+  - 8 St-NYU station (0.21 miles) — R/W trains
+  - Bleecker St (0.27 miles) — 6 train
+  - W 4 St-Washington Sq (0.29 miles) — A/C/E/B/D/F/M trains
+  - Astor Pl (0.29 miles) — 6 train
+  - Broadway-Lafayette St (0.29 miles) — B/D/F/M trains
+  - Prince St (0.36 miles) — R/W trains
+  - Christopher St-Stonewall (0.43 miles) — 1 train
+  - 14 St-Union Sq (0.47 miles) — 4/5/6/L/N/Q/R/W trains
+Greenwich Village has more subway lines than almost any other neighborhood in NYC.
+
+EAST VILLAGE
+The East Village is a popular student neighborhood about 10 minutes from NYU by walk or subway. Subway stations within 0.5 miles include:
+  - 1 Av (0.31 miles) — L train to 14th St connects to multiple lines
+  - 2 Av (0.47 miles) — F/M trains
+  - 3 Av (0.50 miles) — L train
+Commute to NYU Washington Square: approximately 10 minutes walk or 1 stop on the 6 train from Astor Pl.
+
+LOWER EAST SIDE
+The Lower East Side is about 15-20 minutes from NYU by subway. Subway stations within 0.5 miles include:
+  - Delancey St-Essex St (0.19 miles) — F/M/J/Z trains
+  - East Broadway (0.24 miles) — F train
+  - Grand St (0.43 miles) — B/D trains
+Commute to NYU: approximately 15-20 minutes via F train to W 4 St.
+
+WILLIAMSBURG, BROOKLYN
+Williamsburg is a popular Brooklyn neighborhood for NYU students, about 20-25 minutes from campus. Subway stations within 0.5 miles include:
+  - Marcy Av (0.04 miles) — J/M/Z trains
+  - Hewes St (0.21 miles) — J/M trains
+  - Broadway (0.38 miles) — J/M/Z trains
+  - Metropolitan Av (0.44 miles) — L train
+Commute to NYU Washington Square: approximately 20-25 minutes via L train to 14th St, then walk or transfer.
+
+CROWN HEIGHTS, BROOKLYN
+Crown Heights is an affordable Brooklyn option about 30-35 minutes from NYU. Subway stations within 0.5 miles include:
+  - Kingston Av (0.15 miles) — 3 train
+  - President St-Medgar Evers College (0.34 miles) — 2/5 trains
+  - Nostrand Av (0.36 miles) — 2/5 trains
+  - Sterling St (0.49 miles) — 2/5 trains
+Commute to NYU Washington Square: approximately 30-35 minutes via 3 train.
+
+ASTORIA, QUEENS
+Astoria is a popular Queens neighborhood for students seeking cheaper rent, about 30-40 minutes from NYU. No subway stations fall within the strict 0.5 mile radius of the neighborhood center, but the N and W trains run through Astoria along 31st St and Ditmars Blvd.
+Commute to NYU Washington Square: approximately 30-40 minutes via N or W train to 8th St-NYU or W 4 St.
+
+BUSHWICK, BROOKLYN
+Bushwick offers some of the cheapest rents accessible by subway, about 30-35 minutes from NYU. Subway stations within 0.5 miles include:
+  - Knickerbocker Av (0.31 miles) — L train
+  - Gates Av (0.33 miles) — J/M trains
+  - Central Av (0.40 miles) — M train
+  - Kosciuszko St (0.40 miles) — J train
+Commute to NYU Washington Square: approximately 30-35 minutes via L train.
+
+COMMUTE SUMMARY
+  Greenwich Village: 0 minutes (on campus)
+  East Village: ~10 minutes walk or 1 stop on 6 train
+  Lower East Side: ~15-20 minutes via F train
+  Williamsburg: ~20-25 minutes via L train
+  Crown Heights: ~30-35 minutes via 3 train
+  Astoria: ~30-40 minutes via N/W train
+  Bushwick: ~30-35 minutes via L train
+
+Generally: living in Manhattan means shorter commutes but higher rent. Brooklyn and Queens neighborhoods on express subway lines offer a reasonable tradeoff — 30 minutes or less with significantly lower rent than the Village.

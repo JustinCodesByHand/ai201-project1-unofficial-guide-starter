@@ -1,0 +1,30 @@
+NYC QUEENS HOUSING STATISTICS FOR STUDENTS
+Source: NYC Department of City Planning Neighborhood Data Profiles (2025)
+
+This file covers apartment rent prices, cost of living, safety, and commute data for Queens. Astoria is the most popular Queens neighborhood for NYU students due to its subway access, lower rents, and vibrant restaurant scene.
+
+RENT PRICES IN QUEENS
+
+How much does it cost to rent an apartment in Queens? The median monthly rent for a studio or 1-bedroom apartment in Queens is $1,820. The average rent for a 2- or 3-bedroom apartment is $2,220 per month. Overall median rent across all apartment sizes is $1,980 per month. Students who recently moved pay $2,360 per month on average — the median rent for recent movers.
+
+Queens offers affordable rent compared to Manhattan. About 28.0% of renter households are severely rent-burdened and 24.6% are moderately rent-burdened. 5.2% of recently available units are affordable at 30% AMI, and 70.3% at 80% AMI — the best affordability ratio of the three boroughs analyzed.
+
+The rental vacancy rate in Queens is 2.8% — the tightest of any borough, so apartments are hard to find and go quickly.
+
+HOUSING CODE VIOLATIONS IN QUEENS
+
+Are Queens apartments well-maintained? There are 76.5 serious housing code violations per 1,000 rental units and 249.3 total violations per 1,000 units. This is lower than both Manhattan and Brooklyn, suggesting generally better building maintenance.
+
+COMMUTE AND TRANSIT IN QUEENS
+
+How far is Queens from NYU? Only 58.1% of Queens commuters use car-free transit — lower than Manhattan or Brooklyn because many Queens neighborhoods have limited subway coverage. The mean commute time is 43.8 minutes. Astoria is served by the N and W trains to Manhattan — commute to NYU Washington Square is roughly 30-40 minutes. The R and M trains also connect parts of Queens to midtown.
+
+SAFETY IN QUEENS
+
+How safe is Queens for students? The serious crime rate in Queens is 9.6 per 1,000 residents — the lowest of the three boroughs. Violent crime rate is 3.5 per 1,000 residents. Property crime rate is 6.2 per 1,000 residents. Astoria is generally considered very safe and student-friendly.
+
+DEMOGRAPHICS AND INCOME IN QUEENS
+
+The median household income for renters in Queens is $73,780 per year. The poverty rate is 13.3% and unemployment rate is 5.74% — the lowest unemployment of the three boroughs. The homeownership rate is 44.4%, meaning more Queens residents own rather than rent. Queens' population is 2,316,841.
+
+Note: All statistics are Queens borough-wide averages (2025 dollars). Astoria near the N/W train has somewhat higher rents than the Queens average but is still cheaper than Manhattan. Long Island City (LIC) near the 7 train has seen rapid rent increases and may be closer to Manhattan prices.

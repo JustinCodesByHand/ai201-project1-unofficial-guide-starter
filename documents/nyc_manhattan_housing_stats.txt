@@ -1,0 +1,30 @@
+NYC MANHATTAN HOUSING STATISTICS FOR STUDENTS
+Source: NYC Department of City Planning Neighborhood Data Profiles (2025)
+
+This file covers apartment rent prices, cost of living, safety, and commute data for Manhattan, where NYU's Washington Square campus is located.
+
+RENT PRICES IN MANHATTAN
+
+How much does it cost to rent an apartment in Manhattan? The median monthly rent for a studio or 1-bedroom apartment in Manhattan is $2,370. The average rent for a 2- or 3-bedroom apartment is $2,080 per month. Overall median rent across all apartment sizes is $2,290 per month. Students who recently moved (new leases) pay more on average — the median rent for recent movers is $3,290 per month, reflecting current market prices rather than long-term tenants.
+
+Manhattan apartments are expensive. About 25.4% of renter households are severely rent-burdened, meaning they spend more than 50% of income on rent. Another 22.1% are moderately rent-burdened (30-50% of income on rent). Only 5.1% of recently available units are affordable at 30% AMI, and 31.0% at 80% AMI.
+
+The rental vacancy rate in Manhattan is 5.6%, which is low — apartments get taken quickly.
+
+HOUSING CODE VIOLATIONS IN MANHATTAN
+
+Are Manhattan apartments well-maintained? There are 91.0 serious housing code violations per 1,000 rental units and 252.7 total violations per 1,000 units. This is relatively high — students should request a building's violation history from HPD before signing a lease.
+
+COMMUTE AND TRANSIT IN MANHATTAN
+
+What percentage of Manhattan residents commute without a car? 88.4% of commuters in Manhattan use car-free transportation (subway, bus, bike, walking). The mean commute time to work is 31.4 minutes. Manhattan has excellent subway access — living in Manhattan means easy access to NYU's Washington Square campus.
+
+SAFETY IN MANHATTAN
+
+How safe is Manhattan for students? The serious crime rate in Manhattan is 16.0 per 1,000 residents. Violent crime rate is 4.9 per 1,000 residents. Property crime rate is 11.1 per 1,000 residents. Crime rates vary significantly by neighborhood — areas near NYU (Greenwich Village, West Village) are generally considered safe.
+
+DEMOGRAPHICS AND INCOME IN MANHATTAN
+
+The median household income for renters in Manhattan is $93,190 per year. The poverty rate is 15.6% and the unemployment rate is 6.24%. The homeownership rate is 25.5%, meaning most residents rent. Manhattan's population is 1,660,664.
+
+Note: All statistics are Manhattan borough-wide averages (2025 dollars). Individual neighborhoods vary significantly — Greenwich Village and the West Village near NYU tend to be more expensive than upper Manhattan neighborhoods like Washington Heights or Inwood, which offer cheaper rent but longer commutes.

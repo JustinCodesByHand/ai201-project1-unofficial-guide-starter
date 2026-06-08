@@ -1,0 +1,30 @@
+NYC BROOKLYN HOUSING STATISTICS FOR STUDENTS
+Source: NYC Department of City Planning Neighborhood Data Profiles (2025)
+
+This file covers apartment rent prices, cost of living, safety, and commute data for Brooklyn, a popular and more affordable alternative to Manhattan for NYU students. Neighborhoods like Williamsburg, Bushwick, and Crown Heights are common student choices.
+
+RENT PRICES IN BROOKLYN
+
+How much does it cost to rent an apartment in Brooklyn? The median monthly rent for a studio or 1-bedroom apartment in Brooklyn is $1,780. The average rent for a 2- or 3-bedroom apartment is $1,990 per month. Overall median rent across all apartment sizes is $1,900 per month. Students who recently moved pay higher prices — the median rent for recent movers is $2,650 per month, reflecting current Brooklyn market prices.
+
+Brooklyn is significantly cheaper than Manhattan. About 28.1% of renter households are severely rent-burdened, and 20.9% are moderately rent-burdened. About 7.1% of recently available units are affordable at 30% AMI, and 53.3% at 80% AMI — better affordability than Manhattan.
+
+The rental vacancy rate in Brooklyn is 3.2%, which is very low — apartments go fast, especially in popular neighborhoods.
+
+HOUSING CODE VIOLATIONS IN BROOKLYN
+
+Are Brooklyn apartments well-maintained? There are 119.2 serious housing code violations per 1,000 rental units and 394.0 total violations per 1,000 units. This is higher than Manhattan — students should check HPD records before signing a lease, especially in older buildings.
+
+COMMUTE AND TRANSIT IN BROOKLYN
+
+How far is Brooklyn from NYU? 72.9% of Brooklyn commuters use car-free transit. The mean commute time is 41.7 minutes. Williamsburg is about 20-25 minutes from NYU Washington Square via the L train. Crown Heights is about 30-35 minutes via the 3 train. Bushwick is 30-35 minutes via the L train. Brooklyn has good subway access to Manhattan but commutes are noticeably longer than living in the Village.
+
+SAFETY IN BROOKLYN
+
+How safe is Brooklyn for students? The serious crime rate in Brooklyn is 10.1 per 1,000 residents. Violent crime rate is 4.3 per 1,000 residents. Property crime rate is 5.8 per 1,000 residents. Brooklyn is generally safer than its reputation — neighborhood conditions vary widely. Williamsburg and Park Slope are considered very safe. Bushwick and parts of Crown Heights have more variation.
+
+DEMOGRAPHICS AND INCOME IN BROOKLYN
+
+The median household income for renters in Brooklyn is $70,010 per year. The poverty rate is 19.2% and unemployment rate is 7.10%. The homeownership rate is 29.1%. Brooklyn's population is 2,617,631.
+
+Note: All statistics are Brooklyn borough-wide averages (2025 dollars). Rent in Williamsburg near the L train is higher than borough average — closer to Manhattan prices. Neighborhoods farther from the subway like parts of Crown Heights or Flatbush offer cheaper rent.

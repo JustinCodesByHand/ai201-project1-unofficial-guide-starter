@@ -113,6 +113,18 @@ def main():
             "filename": "reddit_asknyc_nyu.txt",
             "max_posts": 30,
         },
+        {
+            "subreddit": "nyc",
+            "queries": ["broker fee", "rent stabilized", "lease tips", "management company", "apartment hunting"],
+            "filename": "reddit_nyc_renting.txt",
+            "max_posts": 40,
+        },
+        {
+            "subreddit": "Brooklyn",
+            "queries": ["Williamsburg apartment", "Crown Heights rent", "Bushwick housing", "commute Manhattan", "neighborhood safe"],
+            "filename": "reddit_brooklyn_housing.txt",
+            "max_posts": 30,
+        },
     ]
 
     for s in sources:

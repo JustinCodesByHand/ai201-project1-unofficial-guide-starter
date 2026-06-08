@@ -18,3 +18,8 @@ chroma/
 
 # macOS
 .DS_Store
+app_err.txt
+app_out.txt
+*.pyc
+__pycache__/
+.venv/
